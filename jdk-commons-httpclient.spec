@@ -1,6 +1,6 @@
 Name     : jdk-commons-httpclient
 Version  : 3.1
-Release  : 1
+Release  : 2
 URL      : http://archive.apache.org/dist/httpcomponents/commons-httpclient/source/commons-httpclient-3.1-src.tar.gz
 Source0  : http://archive.apache.org/dist/httpcomponents/commons-httpclient/source/commons-httpclient-3.1-src.tar.gz
 Source1  : http://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
